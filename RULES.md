@@ -10,4 +10,4 @@ Welcome to the Contribution Tracking App! This app tracks the number of consecut
 * **No Low-Quality Contributions**: Trivial, repetitive actions meant to artificially boost rankings (e.g., multiple small commits for no substantial purpose) are discouraged and may be excluded from the streak count.
 * **Periodic Rule Review**: Rules may be updated periodically to adapt to GitHub’s evolving contribution features and to maintain fairness.
 
-Thank you for contributing to the open-source community and for being part of the Contribution Tracking App! If you have any questions or suggestions, please open an issue in this repository.
+Thank you for contributing to the open-source community and for being part of the CommitKing! If you have any questions or suggestions, please open an issue in this repository.
