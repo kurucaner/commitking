@@ -1,6 +1,6 @@
-# Contribution Tracking App - Rules
+# CommitKing - Rules
 
-Welcome to the Contribution Tracking App! This app tracks the number of consecutive days a GitHub user has been actively contributing through commits, pull requests, issues, and more. To ensure fair and accurate tracking, please follow the rules outlined below.
+Welcome to the CommitKing! This app tracks the number of consecutive days a GitHub user has been actively contributing through commits, pull requests, issues, and more. To ensure fair and accurate tracking, please follow the rules outlined below.
 
 ## Rules
 

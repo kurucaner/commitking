@@ -1,6 +1,6 @@
 # Username Removal from Leaderboard
 
-We respect users' privacy and understand that some may not wish to have their GitHub activity tracked in our Contribution Tracking App. If you would like to have your username removed from the leaderboard and prevent any future tracking, please follow the steps outlined below.
+We respect users' privacy and understand that some may not wish to have their GitHub activity tracked in CommitKing. If you would like to have your username removed from the leaderboard and prevent any future tracking, please follow the steps outlined below.
 
 ## How to Request Removal and Blocking
 
