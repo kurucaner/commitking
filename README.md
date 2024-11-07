@@ -1,6 +1,6 @@
-# Contribution Tracking App
+# CommitKing
 
-Welcome to the Contribution Tracking App! 🎉
+Welcome to the CommitKing! 🎉
 
 This app tracks the number of consecutive days a GitHub user has been actively contributing, including commits, pull requests, issues, and more. Whether you're coding, reviewing, or reporting issues, we’re here to celebrate your contributions!
 
