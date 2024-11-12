@@ -4,6 +4,7 @@ Welcome to the CommitKing! This app tracks the number of consecutive days a GitH
 
 ## Rules
 
+* **No Private Repositories**: Only contributions to public repositories will be counted. Contributions to private repositories will not be included in the Leaderboard.
 * **No Bot Accounts**: Bot accounts are not allowed in the Leaderboard. This includes any accounts with "bot" in their username or accounts flagged as automated.
 * **Definition of Active Contribution**: Contributions include commits, pull requests, issue creation, and code reviews. Each day of activity must include at least one substantial action to count as a "contribution day."
 * **No Fork-Only Contributions**: Contributions made solely on forked repositories without merging back to the main repository will not count towards streaks.
